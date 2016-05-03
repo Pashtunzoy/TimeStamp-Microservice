@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A date displayer based in the url query params.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asif Norzai",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
